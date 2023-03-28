@@ -1,1 +1,1 @@
-Labs from Programming in Python and R - Exercise with NumPy library in PYthon
+Labs from Programming in Python and R - Exercise with NumPy library in Python
